@@ -22,9 +22,9 @@
     <a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/github">   
     </a>
-    
+
 <a href=''>
-    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>
+    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java'>
  </a>
 <a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/spring">   
@@ -33,11 +33,24 @@
     <img height="30" width="40" src="https://cdn.simpleicons.org/springboot">   
 </a>
 <a href=''>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql">  
+</a>
+<a href=''>
+    <img height="30" width="40" src="https://cdn.simpleicons.org/postgresql">
+ </a>
+ <a href=''>
+    <img height="30" width="40" src="https://cdn.simpleicons.org/microsoftsqlserver">
+ </a>
+
+<br/>
+<a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/html5"> 
  </a>
 <a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/css3">    
 </a>
+
+<br/>
 <a href=''>
    <img height="30" width="40" src="https://cdn.simpleicons.org/visualstudiocode">  
 </a>
@@ -50,20 +63,12 @@
  <a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/postman">    
 </a>
-<a href=''>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql">  
-</a>
-<a href=''>
-    <img height="30" width="40" src="https://cdn.simpleicons.org/postgresql">
- </a>
- <a href=''>
-    <img height="30" width="40" src="https://cdn.simpleicons.org/microsoftsqlserver">
-    
- </a>
+
 </p>
 
+<br/>
 
-## :dart: Learning ..
+## :honeybee: Learning ...
 
 <p align='left'>
     <a href='|'>
@@ -72,24 +77,12 @@
     <a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/react">  
     </a>
-    
 <a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/docker/blue">
  </a>
 </p>
 
-<p align="center">
-    <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zeyn-app&theme=dark&hide_border=true">
-</p>
-<p align="center">
-    <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyn-app&theme=radical">
-</p>
-<p align="center">
-    <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyn-app&theme=radical&layout=compact" alt="Top Langs">
-</p>
+<br/>
 
 ## :raising_hand: Let's Connect
 
@@ -107,5 +100,22 @@
     <img height="30" width="40" src="https://cdn.simpleicons.org/hackerrank/green">
     </a>
 </p>
+
+<br/><br/>
+
+## 
+<p align="center">
+    <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zeyn-app&theme=dark&hide_border=true">
+</p>
+<p align="center">
+    <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyn-app&theme=radical">
+</p>
+<p align="center">
+    <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyn-app&theme=radical&layout=compact" alt="Top Langs">
+</p>
+
 
 
