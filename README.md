@@ -1,12 +1,9 @@
 # Hi :wave:, I' m Zeynep Özdemir
 
-<p align="center"> 
-    <img src="https://github.com/zeyn-app/zeyn-app/assets/64809828/9d1f1f1b-dda6-4e87-aa57-c6bd373121d8">
-</p>
+![familyguy](https://github.com/zeyn-app/zeyn-app/assets/64809828/8bd68de1-a846-42c0-8a50-aa932a4458d5)
 
-<p align="center"> 
-    <img src="https://github.com/zeyn-app/zeyn-app/assets/64809828/b3a7252f-610f-48dd-90ca-207b40e25a15">
-</p>
+![happy-developer-gif](https://github.com/zeyn-app/zeyn-app/assets/64809828/ce5dc69c-dcd0-4430-abd0-e2668f2613b1)
+
 
 
 ## 🛠️ Languages and Tools
