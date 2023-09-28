@@ -3,14 +3,16 @@
 ## Jr. Software Developer
 
 
+<p align="center">
 ![family-guy-gif](https://github.com/zeyn-app/zeyn-app/assets/64809828/5f2f3275-2729-498e-acaf-5a3c2b8684b4)
-
+</p>
+<p align="center">
 ![happy-developer-gif](https://github.com/zeyn-app/zeyn-app/assets/64809828/f15332a8-2603-4e25-910d-979454d30e16)
+</p>
 
 
 
-
-# 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 <p align='left'>
     <a href=''>
     <img height="30" width="40" src="https://cdn.simpleicons.org/git">  
@@ -60,7 +62,7 @@
 </p>
 
 
-# :dart: Learning ..
+## :dart: Learning ..
 
 <p align='left'>
     <a href='|'>
@@ -75,7 +77,20 @@
  </a>
 </p>
 
-# :raising_hand: Let's Connect
+<p align="center">
+    <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zeyn-app&theme=dark&hide_border=true">
+</p>
+<p align="center">
+    <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyn-app&theme=radical">
+</p>
+<p align="center">
+    <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyn-app&theme=radical&layout=compact" alt="Top Langs">
+</p>
+
+## :raising_hand: Let's Connect
 
 <p align='left'>
     <a href='mailto: zeynepozz2299@gmail.com'>
@@ -90,6 +105,6 @@
     <a href='https://www.hackerrank.com/imzeynepozdemir'>
     <img height="30" width="40" src="https://cdn.simpleicons.org/hackerrank/green">
     </a>
-    
 </p>
+
 
