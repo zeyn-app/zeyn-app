@@ -3,10 +3,11 @@
 ## Jr. Software Developer
 
 
-<p align="center">
+<p align="left">
 ![family-guy-gif](https://github.com/zeyn-app/zeyn-app/assets/64809828/5f2f3275-2729-498e-acaf-5a3c2b8684b4)
 </p>
-<p align="center">
+
+<p align="left">
 ![happy-developer-gif](https://github.com/zeyn-app/zeyn-app/assets/64809828/f15332a8-2603-4e25-910d-979454d30e16)
 </p>
 
