@@ -1,16 +1,12 @@
 # Hi :wave:, I' m Zeynep Özdemir
 
-## Jr. Software Developer
-
-
-<p align="left">
-![family-guy-gif](https://github.com/zeyn-app/zeyn-app/assets/64809828/5f2f3275-2729-498e-acaf-5a3c2b8684b4)
+<p align="center"> 
+    <img src="https://github.com/zeyn-app/zeyn-app/assets/64809828/9d1f1f1b-dda6-4e87-aa57-c6bd373121d8">
 </p>
 
-<p align="left">
-![happy-developer-gif](https://github.com/zeyn-app/zeyn-app/assets/64809828/f15332a8-2603-4e25-910d-979454d30e16)
+<p align="center"> 
+    <img src="https://github.com/zeyn-app/zeyn-app/assets/64809828/b3a7252f-610f-48dd-90ca-207b40e25a15">
 </p>
-
 
 
 ## 🛠️ Languages and Tools
@@ -105,17 +101,11 @@
 
 ## 
 <p align="center">
-    <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zeyn-app&theme=dark&hide_border=true">
 </p>
 <p align="center">
-    <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyn-app&theme=radical">
 </p>
 <p align="center">
-    <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyn-app&theme=radical&layout=compact" alt="Top Langs">
 </p>
-
-
-
