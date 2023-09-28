@@ -1,4 +1,6 @@
-# Hi :wave:, I' m Zeynep Özdemir
+## <p style="text-align: center;">Hi there, I'm Zeynep Özdemir 👋 </p>
+# <p style="text-align: center;">I'm a Software Developer </p>
+ 
 
 ![familyguy](https://github.com/zeyn-app/zeyn-app/assets/64809828/8bd68de1-a846-42c0-8a50-aa932a4458d5)
 
