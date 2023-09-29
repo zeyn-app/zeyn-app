@@ -1,5 +1,5 @@
-## <p style="text-align: center;">Hi there, I'm Zeynep Özdemir 👋 </p>
-# <p style="text-align: center;">I'm a Software Developer </p>
+## <p align="center">Hi there, I'm Zeynep Özdemir 👋 </p>
+# <p  align="center">I'm a Software Developer </p>
  
 
 <p align='center'>
@@ -22,7 +22,7 @@
     <img height="30" width="40" src="https://cdn.simpleicons.org/github">   
     </a>
 
-    
+<br/>
 <a>
     👉<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java'>
  </a>
