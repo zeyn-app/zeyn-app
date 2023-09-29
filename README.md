@@ -6,7 +6,6 @@
  <img src="https://github.com/zeyn-app/zeyn-app/assets/64809828/ce5dc69c-dcd0-4430-abd0-e2668f2613b1">
 </p>
 <br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyn-app&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepozdemir" /> </p>
 
 # 🛠️ Languages and Tools
