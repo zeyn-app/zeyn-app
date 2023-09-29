@@ -3,13 +3,11 @@
  
 
 <p align='center'>
- <img src="https://github.com/zeyn-app/zeyn-app/assets/64809828/8bd68de1-a846-42c0-8a50-aa932a4458d5">
-</p>
-
-<p align='center'>
  <img src="https://github.com/zeyn-app/zeyn-app/assets/64809828/ce5dc69c-dcd0-4430-abd0-e2668f2613b1">
 </p>
 <br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyn-app&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepozdemir" /> </p>
 
 # 🛠️ Languages and Tools
 <p align='left'>
@@ -111,11 +109,24 @@
 
 ## 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zeyn-app&theme=dark&hide_border=true">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zeyn-app&theme=radical&hide_border=true">
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyn-app&theme=radical">
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyn-app&theme=radical&layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyn-app&theme=radical&layout=compact" alt="Top Langs">
+
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=zeyn-app.zeyn-app.visitor-badge">
 </p>
+
+
+<p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=zeyn-app.zeyn-app.visitor-badge" alt="Visitor Badge">
+</p>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
+
