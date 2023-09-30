@@ -116,17 +116,5 @@
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyn-app&theme=radical&layout=compact" alt="Top Langs">
-
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=zeyn-app.zeyn-app.visitor-badge">
 </p>
-
-
-<p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=zeyn-app.zeyn-app.visitor-badge" alt="Visitor Badge">
-</p>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
-
 
