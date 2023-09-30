@@ -1,5 +1,6 @@
-## <p align="center">Hi there, I'm Zeynep Özdemir 👋 </p>
-# <p  align="center">I'm a Software Developer </p>
+# <p align="center">Hi there, I'm Zeynep Özdemir 👋 </p>
+ <p  align="justify">Hello! I am a newly graduated computer engineer. I have a passion for continuous learning and sharing my knowledge with others. I am resolutely working towards my goal of becoming a proficient backend developer. Through diligent practice, I am gradually approaching this objective, and I aspire to inspire new learners like me. I am here to collaborate and learn together.
+ </p>
  
 
 <p align='center'>
