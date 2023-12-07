@@ -1,5 +1,5 @@
 # <p align="center">Hi there, I'm Zeynep Özdemir 👋 </p>
- <p  align="justify">Hello! I am a new graduate of computer engineer. I have a passion for continuous learning and sharing my knowledge with others. I am resolutely working towards my goal of becoming a proficient backend developer. Through diligent practice, I am gradually approaching this objective, and I aspire to inspire new learners like me. I am here to collaborate and learn together.
+ <p  align="justify">Hello! I'm a new graduate of computer engineering with a strong passion for continuous learning and sharing knowledge. My main goal is to become a skilled backend developer, and I'm actively working towards that. I believe in the power of collaboration and am here to learn together and inspire fellow learners. Let's connect and grow together!
  </p>
  
 
